@@ -1,0 +1,68 @@
+@media screen and (max-width: 1139px) {
+    .contacts {
+        margin-right: 120px;
+    }
+
+    .products .container {
+        gap: 25px;
+        padding-right: 15px;
+        padding-left: 15px;
+        justify-content: center;
+    }
+
+    .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .product {
+        width: 200px;
+    }
+
+    .information-image {
+        margin-right: 50px;
+    }
+
+    .main-image {
+        margin-right: 150px;
+    }
+}
+
+@media screen and (max-width: 1123px) {
+    .advantages .container {
+        gap: 30px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+@media screen and (max-width: 1095px) {
+    .information-image {
+        margin-right: 100px;
+    }
+
+    .product {
+        width: 180px;
+    }
+
+    .product-button .button {
+        width: 100px;
+        height: 45px;
+        border-radius: 20px;
+        font-size: 16px;
+    }
+
+    .product img {
+        left: 15px;
+    }
+
+    .order .container {
+        justify-content: center;
+    }
+
+    .order-all {
+        margin-left: 80px;
+    }
+}
+
+@media screen and (max-width: 1075px) {}
